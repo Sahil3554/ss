@@ -22,13 +22,11 @@
   position: absolute;
 }
 .sidebar {
-  flex: 100px;
   height: calc(100vh - 100px);
   width: 100px;
   display: flex;
   justify-content: center;
   background-color: rgb(245, 237, 135);
-  overflow: hidden;
 }
 
 .content {
